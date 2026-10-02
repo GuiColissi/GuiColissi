@@ -5,7 +5,7 @@
 🎓 **Informatics student at IFRS.**
 
 Passionate about programming since I was 11.  
-Researcher and developer of **ARChemie ARGOS**.
+Researcher and developer of **ARChemie**.
 
 `AI` · `AR` · `Computer Vision` · `3D Computer Graphics`
 
